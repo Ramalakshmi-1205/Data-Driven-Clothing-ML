@@ -1,0 +1,7 @@
+Metric,Value
+PCA dimensions,128.0
+Variance retained (%),99.9829842110882
+Linear Regression Test MSE,0.009509421068404189
+Neural Network Test MSE (PCA space),0.008245365743776618
+MSE reduction (%),13.292663302369649
+Neural Network Test MSE (original space),0.00016212086255044657
